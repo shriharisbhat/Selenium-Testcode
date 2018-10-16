@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="MagentoTest" time="89.378" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="MagentoTest" time="59.726" errors="0" skipped="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="magentosample"/>
@@ -9,14 +9,14 @@
     <property name="JENKINS_HOME" value="C:\Users\SHRIHARI S\.jenkins"/>
     <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
     <property name="HUDSON_SERVER_COOKIE" value="a28b7ea951ec0e82"/>
-    <property name="POM_ARTIFACTID" value="magento"/>
+    <property name="POM_ARTIFACTID" value="MagentoTest"/>
     <property name="os.name" value="Windows 10"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_162\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_162\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_162\jre\classes"/>
-    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
     <property name="sun.desktop" value="windows"/>
     <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="POM_DISPLAYNAME" value="magento"/>
+    <property name="POM_DISPLAYNAME" value="MagentoTest"/>
     <property name="NODE_LABELS" value="master"/>
     <property name="TEMP" value="C:\Users\SHRIHA~1\AppData\Local\Temp"/>
     <property name="java.runtime.version" value="1.8.0_162-b12"/>
@@ -28,11 +28,11 @@
     <property name="PROMPT" value="$P$G"/>
     <property name="user.language" value="en"/>
     <property name="JOB_BASE_NAME" value="magentosample"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/magentosample/17/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#17"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/magentosample/20/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#20"/>
     <property name="OneDrive" value="C:\Users\SHRIHARI S\OneDrive"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_162\jre\bin"/>
-    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="cdeb56ca06a076624d209f46cf0234b1e9c273bd"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="e9c6ef186e4248009998ce6aed847892cf5b5a25"/>
     <property name="LOCALAPPDATA" value="C:\Users\SHRIHARI S\AppData\Local"/>
     <property name="java.version" value="1.8.0_162"/>
     <property name="PROCESSOR_LEVEL" value="6"/>
@@ -41,7 +41,7 @@
     <property name="sun.arch.data.model" value="64"/>
     <property name="NODE_NAME" value="master"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_162\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="17"/>
+    <property name="BUILD_ID" value="20"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -57,14 +57,14 @@
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_162\jre"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="os.version" value="10.0"/>
-    <property name="RUN_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/magentosample/17/display/redirect"/>
+    <property name="RUN_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/magentosample/20/display/redirect"/>
     <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
     <property name="configsetroot" value="C:\WINDOWS\ConfigSetRoot"/>
     <property name="TMP" value="C:\Users\SHRIHA~1\AppData\Local\Temp"/>
     <property name="path.separator" value=";"/>
     <property name="java.vm.version" value="25.162-b12"/>
     <property name="user.variant" value=""/>
-    <property name="GIT_PREVIOUS_COMMIT" value="80983e58c39b1636ed607ff18d5e060732ee8811"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="e9c6ef186e4248009998ce6aed847892cf5b5a25"/>
     <property name="JOB_DISPLAY_URL" value="http://unconfigured-jenkins-location/job/magentosample/display/redirect"/>
     <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
     <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-J34M233A"/>
@@ -82,7 +82,7 @@
     <property name="POM_GROUPID" value="com.abc.magento"/>
     <property name="user.home" value="C:\Users\SHRIHARI S"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-magentosample-17"/>
+    <property name="BUILD_TAG" value="jenkins-magentosample-20"/>
     <property name="JENKINS_SERVER_COOKIE" value="a28b7ea951ec0e82"/>
     <property name="ProgramData" value="C:\ProgramData"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -95,7 +95,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\Selenium Components\apache-maven-3.5.4"/>
     <property name="java.class.path" value="C:\Users\SHRIHARI S\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12-alpha-1.jar;C:\Selenium Components\apache-maven-3.5.4\boot\plexus-classworlds-2.5.2.jar;C:\Selenium Components\apache-maven-3.5.4/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Selenium Components\apache-maven-3.5.4 C:\Users\SHRIHARI S\.jenkins\war\WEB-INF\lib\remoting-3.25.jar C:\Users\SHRIHARI S\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\SHRIHARI S\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 51093"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Selenium Components\apache-maven-3.5.4 C:\Users\SHRIHARI S\.jenkins\war\WEB-INF\lib\remoting-3.25.jar C:\Users\SHRIHARI S\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\SHRIHARI S\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 51889"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_162/bin;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Brackets\command;C:\Program Files\Git\cmd;C:\Users\SHRIHARI S\AppData\Local\Microsoft\WindowsApps;"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
@@ -123,12 +123,12 @@
 "/>
     <property name="MAVEN_HOME" value="C:\Selenium Components\apache-maven-3.5.4"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="17"/>
+    <property name="BUILD_NUMBER" value="20"/>
     <property name="PROCESSOR_REVISION" value="8e09"/>
     <property name="GIT_BRANCH" value="origin/master"/>
     <property name="ProgramW6432" value="C:\Program Files"/>
     <property name="windir" value="C:\WINDOWS"/>
-    <property name="GIT_COMMIT" value="80983e58c39b1636ed607ff18d5e060732ee8811"/>
+    <property name="GIT_COMMIT" value="e9c6ef186e4248009998ce6aed847892cf5b5a25"/>
     <property name="=C:" value="C:\Selenium Components"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="SystemDrive" value="C:"/>
@@ -140,5 +140,5 @@
     <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
     <property name="GIT_URL" value="https://github.com/ShrihariBhat/TestCode.git"/>
   </properties>
-  <testcase classname="MagentoTest" name="posCredentials" time="89.378"/>
+  <testcase classname="MagentoTest" name="posCredentials" time="59.726"/>
 </testsuite>

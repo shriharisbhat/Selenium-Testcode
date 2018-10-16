@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="MagentoTest" duration-ms="89413" started-at="2018-10-16T17:40:10Z" finished-at="2018-10-16T17:41:39Z">
+  <suite name="MagentoTest" duration-ms="59766" started-at="2018-10-16T18:00:45Z" finished-at="2018-10-16T18:01:45Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="89413" started-at="2018-10-16T17:40:10Z" finished-at="2018-10-16T17:41:39Z">
+    <test name="Command line test" duration-ms="59766" started-at="2018-10-16T18:00:45Z" finished-at="2018-10-16T18:01:45Z">
       <class name="MagentoTest">
-        <test-method status="PASS" signature="posCredentials()[pri:0, instance:MagentoTest@96532d6]" name="posCredentials" duration-ms="89329" started-at="2018-10-16T23:10:10Z" finished-at="2018-10-16T23:11:39Z">
+        <test-method status="PASS" signature="posCredentials()[pri:0, instance:MagentoTest@96532d6]" name="posCredentials" duration-ms="59713" started-at="2018-10-16T23:30:45Z" finished-at="2018-10-16T23:31:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- posCredentials -->
